@@ -1,3 +1,3 @@
-# MATLABcheat
+# MATLAB / Octave cheat sheet
 
-A printint-friendly cheat sheet of MATLAB
+A printint-friendly cheat sheet of MATLAB / Octave
