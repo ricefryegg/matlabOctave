@@ -6,4 +6,4 @@
 
 ## Project
 
-1. [A GUI Trigonometric Funtions program](project/guiTrigonometricFuntions)
+1. [A GUI Trigonometric Funtions program](https://github.com/Amblizer/matlab-gui-sin-cos-tan-cot)
