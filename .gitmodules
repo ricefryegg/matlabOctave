@@ -1,0 +1,3 @@
+[submodule "project/guiTrigonometricFuntions"]
+	path = project/guiTrigonometricFuntions
+	url = git@github.com:Amblizer/matlab-gui-sin-cos-tan-cot.git
